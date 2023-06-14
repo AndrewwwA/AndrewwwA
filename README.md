@@ -1,6 +1,6 @@
-Hello 👋 I'm [Andrew](https://github.com/AndrewwwA/portfolio)
+### Hello 👋 I'm [Andrew](https://github.com/AndrewwwA/portfolio)
 
-! [Andrew A Banner] (https://raw.githubusercontent.com/AndrewwwA/AndrewwwA/main/banner.png)
+! [Andrew A Banner](https://raw.githubusercontent.com/AndrewwwA/AndrewwwA/main/banner.png)
 
 I'm a software engineer who is passionate about creating web applications, learning new technologies, and sharing my knowledge with others. Some of the technologies I enjoy working with are React, Node.js, MongoDB, and GraphQL.
 
@@ -12,6 +12,6 @@ I'm a software engineer who is passionate about creating web applications, learn
 
 ## \uD83D\uDC65 Contact Me
 
-- [LinkedIn] (https://www.linkedin.com/in/andrew-a/)
-
-! [Visitor Count] (https://profile-counter.glitch.me/AndrewwwA/count.svg)
+- [LinkedIn](https://www.linkedin.com/in/andrew2023/)
+- 
+! [Visitor Count](https://profile-counter.glitch.me/AndrewwwA/count.svg)
