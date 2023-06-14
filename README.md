@@ -11,5 +11,5 @@ I'm a software engineer who is passionate about creating web applications, learn
 ## \uD83D\uDC65 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/andrew2023/)
-- 
+- Visitors -> 
   <img src="https://profile-counter.glitch.me/AndrewwwA/count.svg" />
