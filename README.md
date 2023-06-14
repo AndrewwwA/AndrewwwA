@@ -11,7 +11,7 @@ My Projects
 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/andrew2023/)
-- [Email] = andrewalvarezdev@gmail.com
+- Email = andrewalvarezdev@gmail.com
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AndrewwwA/count.svg" />
