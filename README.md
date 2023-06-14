@@ -1,4 +1,4 @@
-### Hello 👋 I'm [Andrew](https://github.com/AndrewwwA/portfolio)
+# Hello 👋 I'm [Andrew](https://github.com/AndrewwwA/portfolio)
 
 Software Engineer located in Chicago, experienced with React/Redux, Angular, Next.js. Always open to new opportunities, if you want to work together, please contact me on my LinkedIn or Email.
 
