@@ -17,5 +17,5 @@ Contact Me
   <img src="https://profile-counter.glitch.me/AndrewwwA/count.svg" />
 </p>
  <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewwwA&theme=dark" />
+ <img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewwwA&theme=radical"/>
  </p>
