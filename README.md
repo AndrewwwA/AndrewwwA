@@ -1,12 +1,12 @@
 ### Hello 👋 I'm [Andrew](https://github.com/AndrewwwA/portfolio)
 
-Software Engineer located in Chicago, experienced with React/Redux, Angular, Next.js. Always open to new opportunities, if so please contact me on my LinkedIn or Email.
+Software Engineer located in Chicago, experienced with React/Redux, Angular, Next.js. Always open to new opportunities, if you want to work together, please contact me on my LinkedIn or Email.
 
-My Projects
+My Top Projects
 
-- [Todo App] (https://github.com/AndrewwwA/todo-app): A simple but elegant todo app built with React and Firebase.
-- [Weather App] (https://github.com/AndrewwwA/weather-app): A weather app that shows the current weather and forecast for any city in the world using OpenWeatherMap API.
-- [Blog App] (https://github.com/AndrewwwA/blog-app): A blog app that allows users to create, edit, and delete posts using Node.js, Express, MongoDB, and EJS.
+- [Lunch Buddy] (https://github.com/2212-FSA-Frogger/Lunch-Buddy): “Social Media” site using advanced algorithms and real-time data (GoogleAPI, YelpAPI + more) to help you find a buddy to go out for lunch with!
+- [Quick Type] (https://github.com/Andrew-org-TM/Quick-Type): Typing test site using advanced HTML and CSS logic to display and keep track of proper stats for each user.
+- [Portfolio] (https://github.com/AndrewwwA/portfolio): Currently not finished, but being built with Angular.
 
 Contact Me
 
