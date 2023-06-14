@@ -13,5 +13,5 @@ I'm a software engineer who is passionate about creating web applications, learn
 - [LinkedIn](https://www.linkedin.com/in/andrew2023/)
 - <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/AndrewwwA/count.svg" />
 </p>
