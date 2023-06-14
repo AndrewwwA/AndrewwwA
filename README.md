@@ -1,5 +1,22 @@
 ### Hello there 👋 I'm [Andrew](https://github.com/AndrewwwA/portfolio/tree/master)
+I’m currently working on 
 
+
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+}
 <!--
 **AndrewwwA/AndrewwwA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
