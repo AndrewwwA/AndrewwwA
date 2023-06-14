@@ -12,4 +12,4 @@ I'm a software engineer who is passionate about creating web applications, learn
 
 - [LinkedIn](https://www.linkedin.com/in/andrew2023/)
 - 
-! [Visitor Count] (https://profile-counter.glitch.me/AndrewwwA/count.svg)
+! [Visitor Count] https://profile-counter.glitch.me/AndrewwwA/count.svg
