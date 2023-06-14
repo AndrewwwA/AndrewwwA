@@ -15,4 +15,5 @@ Contact Me
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AndrewwwA/count.svg" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewwwA&theme=dark" />
 </p>
