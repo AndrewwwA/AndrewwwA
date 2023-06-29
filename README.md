@@ -18,7 +18,5 @@ Contact Me
 </p>
  <p align="center"> 
  <img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewwwA&theme=radical&layout=compact"/>
-  
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewwwA&count_private=true&show_icons=true&theme=dark)
  </p
   
